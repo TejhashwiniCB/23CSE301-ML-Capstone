@@ -1,10 +1,6 @@
 # Machine Learning Capstone Project
+![](https://img.shields.io/badge/23CSE301-Machine_Learning-gold) ![](https://img.shields.io/badge/Academic_Year-2026_to_27-purple) <br/>
 
-## Course
-23CSE301 - Machine Learning
-
-## Academic Year
-2026-27
 
 ## Project Overview
 
