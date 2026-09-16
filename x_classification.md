@@ -20,10 +20,9 @@
 | Dataset | Approx. Samples | Approx. Features | Fraud Distribution | Decision |
 |---|---:|---:|---|---|
 | ULB Credit Card Fraud Dataset | 284,807 | 30 | ~0.17% fraud | ❌ Rejected |
-| Online Banking Fraud Inference Logs (2026) | 56,962 | Multiple | ~0.17% confirmed fraud | ❌ Rejected |
 | IEEE-CIS Fraud Detection | ~590,000 | ~871 | ~3.5% fraud | ❌ Rejected |
 | PaySim | ~6.3 million | ~10+ | Highly imbalanced | ❌ Rejected |
-| Credit Card Fraud Detection Dataset 2023 | ~568,630 | ~30 | ~50:50 | ✅ Selected |
+| Credit Card Fraud Detection Dataset 2023 | ~568,630 | ~30 | ~50:50 | ❌ Rejected |
+| Automobile Insurance Claims Fraud Dataset | 1,000 | ~39 | ~75:25 | ✅ Selected |
 
-**Finalized Dataset Link :**
-https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+**Finalized Dataset Link :** [Automobile Insurance Claims Fraud Dataset](https://www.kaggle.com/datasets/mexwell/insurance-claims)
