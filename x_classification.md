@@ -26,3 +26,6 @@
 | Automobile Insurance Claims Fraud Dataset | 1,000 | ~39 | ~75:25 | ✅ Selected |
 
 **Finalized Dataset Link :** [Automobile Insurance Claims Fraud Dataset](https://www.kaggle.com/datasets/mexwell/insurance-claims)
+
+## Exploratory Data Analysis (EDA)
+
