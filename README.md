@@ -28,9 +28,16 @@ The project will follow an end-to-end machine learning workflow:
 
 ## Team Members
 
-- CB.SC.U4CSE24724 - Kavinaya S
-- CB.SC.U4CSE24728 - Lakshya D
-- CB.SC.U4CSE24755 - Tejhashwini CB
+- CB.SC.U4CSE24724 - **Kavinaya S**
+- CB.SC.U4CSE24728 - **Lakshya D**
+- CB.SC.U4CSE24755 - **Tejhashwini CB**
+
+> [!NOTE]
+> Each team member should be the primary owner of at least one track.<br/>
+> _As per Guideline - Each team member should be the primary owner of at least one track._ <br/>
+> ![](https://img.shields.io/badge/Track_1-Regression-blue) - Lakshya D <br/>
+> ![](https://img.shields.io/badge/Track_2-Classification-blue) - Tejhashwini CB <br/>
+> ![](https://img.shields.io/badge/Track_3-Clustering-blue) - Kavinaya S
 
 ## Technologies
 
@@ -42,7 +49,7 @@ The project will follow an end-to-end machine learning workflow:
 - Seaborn
 - Jupyter Notebook
 
-## Repository Structure
+## Repository Structure -_as per guidelines_
 
 ```text
 ├── README.md
@@ -59,10 +66,10 @@ The project will follow an end-to-end machine learning workflow:
 ## Project Status
 
 - [x] Project initialization
-- [ ] Repository setup *(in progress)*
-- [ ] Dataset identification
-- [ ] Regression
-- [ ] Classification
+- [x] Repository setup *(in progress)*
+- [x] Dataset identification
+- [x] Regression
+- [x] Classification
 - [ ] Clustering
 - [ ] Model comparison
 - [ ] Hyperparameter tuning
