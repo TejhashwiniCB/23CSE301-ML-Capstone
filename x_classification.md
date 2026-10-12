@@ -98,7 +98,7 @@ The completely empty `_c39` column is removed because it does not contain useful
 
 The project evaluates ten classification algorithms.
 
-### Part A — Review 1
+### Part A - Review 1
 
 1. **Logistic Regression:** Baseline classification model that estimates class probabilities.
 2. **K-Nearest Neighbors (KNN):** Classifies observations using their nearest neighbors.
@@ -106,15 +106,13 @@ The project evaluates ten classification algorithms.
 4. **Decision Tree Classifier:** Learns decision rules through recursive feature-based splits.
 5. **Support Vector Machine (SVC):** Learns a decision boundary to distinguish between classes.
 
-### Part B — Review 2
+### Part B - Review 2
 
 6. **Random Forest Classifier:** Combines multiple decision trees and examines feature importance.
 7. **AdaBoost Classifier:** Sequentially combines weak learners, focusing on observations that are difficult to classify.
 8. **Gradient Boosting Classifier:** Builds successive trees to improve the ensemble's predictions.
 9. **Bagging Classifier:** Combines predictions from bootstrap-trained decision trees.
 10. **MLP Classifier:** A feed-forward neural network that learns nonlinear relationships between features and the target.
-
-Hyperparameter tuning is performed using GridSearchCV for the applicable models.
 
 ## 6. Evaluation Metrics
 
